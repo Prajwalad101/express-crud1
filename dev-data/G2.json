@@ -1,0 +1,9 @@
+[
+  { "name": "Prajwal Adhikari", "rollno": 1, "course": "BIT", "id": 2058944 },
+  { "name": "Kalyan Khatry", "rollno": 2, "course": "BIT", "id": 2058924 },
+  { "name": "Kushal Sarkar", "rollno": 3, "course": "BIT", "id": 2058962 },
+  { "name": "Sujan Neupane", "rollno": 4, "course": "BIT", "id": 2058934 },
+  { "name": "Sugyan Nepal", "rollno": 5, "course": "BIT", "id": 2058976 },
+  { "name": "Pranil Napit", "rollno": 6, "course": "BIT", "id": 2058928 },
+  { "id": 2058929, "name": "Genious Bajracharya", "rollno": 7, "course": "BIT" }
+]
