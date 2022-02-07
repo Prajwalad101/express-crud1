@@ -1,0 +1,14 @@
+{
+  "name": "express-crud1",
+  "version": "1.0.0",
+  "description": "Simple crud api from filesystem",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Prajwal Adhikari",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
